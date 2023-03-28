@@ -1,3 +1,4 @@
+<br />
 <p align="center">
 <img src="https://static.wixstatic.com/shapes/2ebf04_0f788366bccc464d8a5659c638e76bb8.svg" alt="Proton VPN logo"/>
 </p>
