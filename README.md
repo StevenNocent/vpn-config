@@ -4,7 +4,7 @@
 </p>
 
 <h1>Proton VPN - Installation and Set Up</h1>
-This tutorial will provide a step-by-step guide to install and configure a Virtual Private Network (VPN) on an Azure Virtual Machine. Furthermore, we will examine the process of utilizing a VPN, and documenting the Internet Protocol (IP) addresses of our local computer, virtual machine without a VPN, and virtual machine with a Proton VPN installed.<br />
+This tutorial will provide a step-by-step guide to install and configure a Virtual Private Network (VPN) on an Azure Virtual Machine. Furthermore, we will examine the process of utilizing a VPN, and documenting the Internet Protocol (IP) addresses of our local computer, virtual machine without a VPN, and virtual machine with a VPN installed.<br />
 
 
 <h2>Video Demonstration</h2>
