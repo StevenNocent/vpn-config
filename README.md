@@ -16,11 +16,9 @@ This tutorial will provide a step-by-step guide to install and configure a Virtu
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines)
+- Microsoft Azure (Virtual Machine)
 - Remote Desktop Connection
 - Proton VPN
-- Google Chrome
-- Microsoft Edge
 - Notepad
 
 <h2>Operating Systems Used </h2>
