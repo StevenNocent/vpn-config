@@ -23,8 +23,8 @@ This tutorial will provide a step-by-step guide to install and configure a Virtu
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (Local Computer)
-- Windows 10 Version 21H2</b> (Virtual Machine)
+- Windows 11 (Local Computer)
+- Windows 10 Version 21H2 (Virtual Machine)
 
 <h2>Installation and Deployment Steps</h2>
 
