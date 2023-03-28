@@ -30,100 +30,101 @@ This tutorial will provide a step-by-step guide to install and configure a Virtu
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_76eda35dd7cf4c0a82636adad714bb16~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Create a virtual machine in Azure and choose Windows 10 Pro, Version 21H2 as the image for your virtual machine. 
+Step 1: Create a virtual machine in Azure and select Windows 10 Pro, Version 21H2 as the image for the virtual machine.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_2e11d3e6095e4ed4b588b37f29a7831b~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Create a new text document to notate the 3 different IP Addresses and their location from our local computer, virtual machine (VM), and our VM with a VPN running.
+Step 2: Create a new text document to record the locations and corresponding IP addresses of our local computer, virtual machine (VM), and VM with VPN running.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_b598f5d35fb349329d1bdc07e1ef44e6~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Document the IP Address from our local computer by going to https://whatismyipaddress.com.
+Step 3: Obtain the IP address of our local computer by visiting https://whatismyipaddress.com and record it in the notepad file.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_bcfd9f08d62641d290076df95876e28e~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Remote Desktop Connection into the virtual machine via the VM’s Public IP Address.
+Step 4: Connect to the virtual machine with Remote Desktop Connection and input its public IP address.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_02f0ef5f899e491986817316d953d16f~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Download Proton VPN in Microsoft Edge by going to https://protonvpn.com/download.
+Step 5: Document the location and IP address of the VM prior to deploying the VPN.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_9f3d0cec77164f2ab8b3f74da516241a~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Install Proton VPN by following the install instructions.
+Step 6: Open Microsoft Edge on the virtual machine and navigate to https://protonvpn.com/download to download Proton VPN.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_58466b3f63524139a7ba139bc3419372~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Sign Up/Sign In to Proton VPN.
+Step 7: Install Proton VPN using the default installation settings.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_8cf87fc66e294671b75445405ddde20a~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Notate the IP Address and location of the VM before deploying our VPN.
+Step 8: Create an account and sign into Proton VPN.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_5b89c56d9a814800bbdb83c4ea84c834~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Connect to the country of your choice from Proton VPN’s main dashboard.
+Step 9: From Proton VPN's main dashboard, connect to a country of choice.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_5586907086a74d7bb2c2812f3e9c651e~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Notate the IP Address and location of the virtual machine with the VPN running.
+Step 10: Note the IP address and location of the virtual machine with the VPN enabled in the notepad file.
 </p>
 <br />
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_95c8dd43813b4120bde00763e64c467f~mv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://static.wixstatic.com/media/2ebf04_dc027895afdc46cc81335e4f0a7aaf0c~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
-Compare and observe the 3 different IP Addresses and the changes.
+Step 11: Compare and observe the three distinct IP addresses and the changes.
 </p>
 <br />
+
 <p align="center"><b><i>🙌💥Learning is a lifelong process of keeping abreast of change. ~ Peter Drucker 🙌💥</b></i></p>
