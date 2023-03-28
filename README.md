@@ -9,7 +9,7 @@ This tutorial will provide a step-by-step guide to install and configure a Virtu
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Set Up a VPN](https://youtu.be/JCjH2GCINF8)
+- ### [YouTube: How To Set Up A VPN](https://youtu.be/JCjH2GCINF8)
 
 [![YouTube](https://static.wixstatic.com/media/2ebf04_7a491a100b904976bae2e554ecdbc4a2~mv2.png)](https://youtu.be/JCjH2GCINF8)
 </p>
