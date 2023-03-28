@@ -84,7 +84,7 @@ Step 6: Open Microsoft Edge on the virtual machine and navigate to https://proto
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_d7bbb0ce1f6e4c4787581c760baf9489~mv2.png" height="50%" width="50%" alt="Proton VPN: Installation and Set Up"/>
+<img src="https://static.wixstatic.com/media/2ebf04_d7bbb0ce1f6e4c4787581c760baf9489~mv2.png" height="40%" width="40%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
 Step 7: Install Proton VPN using the default installation settings.
