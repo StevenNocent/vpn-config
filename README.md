@@ -39,7 +39,7 @@ Step 1: Create a virtual machine in Azure and select Windows 10 Pro, Version 21H
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_3b990ddc1aa94ec3bafc7a8ecb3ab2fd~mv2.png" height="80%" width="80%" alt="Proton VPN: Installation and Set Up"/>
+<img src="https://static.wixstatic.com/media/2ebf04_3b990ddc1aa94ec3bafc7a8ecb3ab2fd~mv2.png" height="60%" width="60%" alt="Proton VPN: Installation and Set Up"/>
 </p>
 <p>
 Step 2: Create a new text document to record the locations and corresponding IP addresses of our local computer, virtual machine (VM), and VM with VPN running.
