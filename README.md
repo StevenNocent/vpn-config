@@ -127,4 +127,4 @@ Step 11: Compare and observe the three distinct IP addresses and the changes.
 </p>
 <br />
 
-<p align="center"><b><i>🙌💥Learning is a lifelong process of keeping abreast of change. ~ Peter Drucker 🙌💥</b></i></p>
+<p align="center">👨🏾‍🏫 <b><i>Learning is a lifelong process of keeping abreast of change. ~ Peter Drucker</b></i> 📚</p>
